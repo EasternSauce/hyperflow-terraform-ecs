@@ -1,5 +1,0 @@
-ACCESS_KEY= "AKIAJMSYIUTBBMP7G4BQ"
-SECRET_ACCESS_KEY = "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"
-key_pair_name = "my-key-pair"
-ssh_private_key_path = "/home/kamil/my-key-pair.pem"
-ecs_region = "us-east-1"
